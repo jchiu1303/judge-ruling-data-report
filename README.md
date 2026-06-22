@@ -27,4 +27,4 @@ is distinct from state criminal bail.
 Pipeline and raw data live in a **private** research repo. This public site contains
 only the self-contained HTML report — no API keys or download scripts.
 
-*Updated: 2026-06-22 03:02 UTC*
+*Updated: 2026-06-22 03:06 UTC*
