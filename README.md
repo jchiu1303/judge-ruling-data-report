@@ -10,10 +10,10 @@ RECAP docket snippets allow parsing.
 
 | | |
 |---|---|
-| Cases in export | 964 |
-| Parsed grant/deny/mixed | 97 |
-| Date range | 2016-02-03 → 2026-06-15 |
-| Last built | 2026-06-21T16:47:33.975069+00:00 |
+| Cases in export | 2,218 |
+| Parsed grant/deny/mixed | 308 |
+| Date range | 2016-01-26 → 2026-06-18 |
+| Last built | 2026-06-22T03:23:14.077764+00:00 |
 
 ## Methodology (short)
 
@@ -27,4 +27,4 @@ is distinct from state criminal bail.
 Pipeline and raw data live in a **private** research repo. This public site contains
 only the self-contained HTML report — no API keys or download scripts.
 
-*Updated: 2026-06-22 03:06 UTC*
+*Updated: 2026-06-22 03:59 UTC*
